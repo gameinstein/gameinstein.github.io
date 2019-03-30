@@ -1,4 +1,4 @@
-import {marioSprite, loadMario} from './mario.js';
+import marioSprite, {loadMario} from './mario.js';
 import {goombaSprite, loadGoomba} from './goomba.js';
 import {koopaSprite, loadKoopa} from './koopa.js';
 import {loadLevel} from './loaders.js';
