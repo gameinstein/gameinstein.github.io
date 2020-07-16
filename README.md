@@ -1,1 +1,1 @@
-# gameinstein.github.io
+# gurpreetsingh.github.io
